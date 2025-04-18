@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=⛽️Hi+friends!+欢迎来到我的GitHub~;🚀+Code,+Create,+Innovate!;Hello,World!;🌍你好,世界！;🔥+一万年太久,+只争朝夕!;&center=true&size=30&color=F97316,EF4444,F43F5E&pause=1000&width=700&height=60&background=FFFFFF00&vCenter=true">
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=⛽️Hi+friends!+欢迎来到我的GitHub~;🚀+Code,+Create,+Innovate!;Hello,World!;🌍你好,世界！;🔥+一万年太久,+只争朝夕!&center=true&size=30&color=F97316)
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa211MHp1YmFxZnJ2d3I5NHJ1eGJ6OXhpOXVmdGh5N3I1M3Y3N2VmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width="300px" alt="AI Neural Network Animation">
@@ -174,7 +172,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=000000&center=true&vCenter=true&width=600&lines=感谢你的阅读%EF%BC%81希望对你有所帮助~;Thanks!+Hope+you+found+something+helpful~" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=000000&center=true&vCenter=true&width=600&lines=感谢你的阅读%EF%BC%81希望对你有所帮助~;Thanks!+Hope+you+found+something+helpful~" />
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="github-snake" />
