@@ -1,5 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=⛽️Hi+friends!+欢迎来到我的GitHub~;🚀+Code,+Create,+Innovate!;Hello,World!;🌍你好,世界！;🔥+一万年太久,+只争朝夕!&center=true&size=30&color=F97316)
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=⛽️Hi+friends!+欢迎来到我的GitHub~;🚀+Code,+Create,+Innovate!;Hello,World!;🌍你好,世界！;🔥+一万年太久,+只争朝夕!" />
+</div>
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa211MHp1YmFxZnJ2d3I5NHJ1eGJ6OXhpOXVmdGh5N3I1M3Y3N2VmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width="300px" alt="AI Neural Network Animation">
 </p>
