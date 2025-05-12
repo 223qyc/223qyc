@@ -96,6 +96,12 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Projects
 
 <div align="center">
+  <a href="https://github.com/223qyc/Bayesian-modeling-Maximum-entropy-model-Neural-feature-function">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=223qyc&repo=Bayesian-modeling-Maximum-entropy-model-Neural-feature-function&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Bayesian-modeling-Maximum-entropy-model-Neural-feature-function">
+  </a>
+  <a href="https://github.com/223qyc/Data-simulation-and-noise-reduction-of-distributed-fiber-Raman-intensity">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=223qyc&repo=Data-simulation-and-noise-reduction-of-distributed-fiber-Raman-intensity&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data-simulation-and-noise-reduction-of-distributed-fiber-Raman-intensity">
+  </a>
   <a href="https://github.com/223qyc/RLDriverX">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=223qyc&repo=RLDriverX&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="RLDriverX">
   </a>
@@ -109,6 +115,7 @@
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiaYiByte101&repo=Cloud_Notepad&theme=react&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Cloud_Notepad">
   </a>
 </div>
+
 
 <p align="left">
   <a href="https://github.com/223qyc?tab=repositories" target="_blank">
