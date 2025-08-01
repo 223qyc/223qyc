@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-  <span style="background: linear-gradient(to right, #FF4D4D, #F9CB28); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">你好，我是yicheng qin</span>
+  <span style="background: linear-gradient(to right, #FF4D4D, #F9CB28); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Eason Qin</span>
 </h1>
 
 <p align="center">
